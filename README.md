@@ -6,11 +6,6 @@ Prof. Dr. Erekle Magradze
 ##  Student:
 Jambuli Chkhikvadze
 
-##  Date:
-- Assignment Date: June 6, 2025
-- Due Date: June 13, 2025
-
-
 ## What This Project Does
 
 This homework sets up **Apache Cassandra** using **Docker**, creates a database to store environmental sensor data, and uses **Python** to insert and plot sample data.
