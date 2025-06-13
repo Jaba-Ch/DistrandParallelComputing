@@ -18,7 +18,7 @@ This homework sets up **Apache Cassandra** using **Docker**, creates a database 
 
 ## Setup Steps 
 
-### 1. Clone the GitHub repo to your computer
+### 1. Clone the GitHub repo to the computer
 
 ```bash
 git clone https://github.com/Jaba-Ch/DistrandParallelComputing
