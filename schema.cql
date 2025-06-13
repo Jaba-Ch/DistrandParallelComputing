@@ -1,11 +1,11 @@
--- Create keyspace
+-- creating keyspace
 CREATE KEYSPACE IF NOT EXISTS sensor_data 
 WITH replication = {'class': 'SimpleStrategy', 'replication_factor': 1};
 
--- Use the keyspace
+-- using the keyspace
 USE sensor_data;
 
--- Create table
+-- creating table
 CREATE TABLE IF NOT EXISTS environmental_readings (
     id UUID PRIMARY KEY,
     timestamp timestamp,
